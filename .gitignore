@@ -1,0 +1,11 @@
+out/
+*.class
+*.jar
+!lib/*.jar
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+sources.txt
